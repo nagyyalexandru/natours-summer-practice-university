@@ -22,3 +22,15 @@ It served as a hands-on learning experience in structuring projects, writing cle
 
 ## License
 This project is for educational purposes only.
+
+![Screenshot 1](./img/screenshots/screenshot_1.png)
+
+![Screenshot 2](./img/screenshots/screenshot_2.png)
+
+![Screenshot 3](./img/screenshots/screenshot_3.png)
+
+![Screenshot 4](./img/screenshots/screenshot_4.png)
+
+![Screenshot 5](./img/screenshots/screenshot_5.png)
+
+![Screenshot 6](./img/screenshots/screenshot_6.png)
